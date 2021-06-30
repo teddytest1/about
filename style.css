@@ -75,7 +75,7 @@ li::after {
 #P2{
     position:absolute;
     top:270px;
-    left:200px;
+    left:170px;
     z-index:1;
     cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
@@ -88,21 +88,21 @@ li::after {
 #P4{
     position:absolute;
     top:257px;
-    left:565px;
+    left:505px;
     z-index:0;
   cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 #P5{
     position:absolute;
     top:260px;
-    left:960px;
+    left:820px;
     z-index:3;
     cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
 #P6{
     position:absolute;
     top:256.5px;
-    left:1400px;
+    left:1250px;
     z-index:0;
   cursor:url('https://teddytest1.github.io/img1/0001.png'),auto;
 }
